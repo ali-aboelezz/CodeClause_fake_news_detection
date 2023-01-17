@@ -29,6 +29,6 @@ This is a Advanced Python Project which deals with fake and real news. Using skl
 - [scikit Learn](https://scikit-learn.org/stable/)
 
 ## Conclusion
-Using a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of **92.82%** in magnitude.
+Using a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of **92.13%** in magnitude.
 
 
