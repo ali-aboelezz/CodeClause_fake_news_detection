@@ -1,0 +1,2 @@
+# CodeClause_fake_news_detection
+fake news detector with PassiveAggressiveClassifier
